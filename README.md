@@ -14,6 +14,8 @@ This repository contains the code for the research proposal:
 - pandas==2.1.0
 - numpy==1.24.0
 - matplotlib==3.7.0
+- seaborn==0.12.0
+- jupyter==1.0.0
 
 ## Dataset
 WSN-DS (Wireless Sensor Network Dataset) - IEEE DataPort
@@ -27,5 +29,5 @@ https://ieee-dataport.org/open-access/wsn-ds
 └── requirements.txt   # Python dependencies
 
 ## Author
-[Your Name] - [Your Email]
+Mohammed Rayan Suhuyini - msuhuyini1234@gmail.com
 Department of Computer Science, KNUST
